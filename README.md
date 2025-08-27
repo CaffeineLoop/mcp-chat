@@ -124,10 +124,3 @@ Testing: Talend API Tester / Postman
 
 MIT License – feel free to use, modify, and share.
 
-
----
-
-✅ This version is **clean**, mentions only **React + CSS**, and is GitHub-ready.  
-
-Do you also want me to add **screenshots placeholders** (like `![screenshot](screenshots/app.png)`) so your GitHub README can later showcase your frontend UI?
-
