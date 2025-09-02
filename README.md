@@ -38,7 +38,7 @@ The backend exposes a JSON-based HTTP API, and the frontend consumes it to provi
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/mcp-chat.git
+[git clone https://github.com/CaffeineLoop/mcp-chat
 cd mcp-chat
 
 2. Backend (Java)
